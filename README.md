@@ -1,5 +1,6 @@
 # Athenea
 Instructable DIY
+
 -STL files: 
 All the files needed are available at https://www.thingiverse.com/thing:3647372 for creative common use. If you want to replicate Athenea’s project we recommend you to print 4 pieces with the following parameters: 
 Body_IR_holes: 3 layers shell, infill 20% and supports as needed.
