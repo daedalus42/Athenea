@@ -2,17 +2,11 @@
 Instructable DIY
 
 -STL files:
-
 All the files needed are available at https://www.thingiverse.com/thing:3647372 for creative common use. If you want to replicate Athenea’s project we recommend you to print 4 pieces with the following parameters:
-
 Body_IR_holes: 3 layers shell, infill 20% and supports as needed.
-
 Head_IR_holes: 1 single layer shell.
-
 Eliptic_tube: 2-3 layers shell and infill between 20-30%.
-
 Holder_DCmotor: same as Eliptic_tube.
-
 We left all the versions of the 3D pieces we created to use our hardware as platform for future projects, see the following section, where we propose some implementations for future students.
 
 -Python Code: 
