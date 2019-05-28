@@ -50,23 +50,14 @@ Get credentials for Google Cloud at https://cloud.google.com/genomics/docs/how-t
 Open the configuration file and set up Google Cloud JSON credentials location. In this file you can change pins assignments if needed.
 
 -Hardware list: 
-
 RaspberryPi 3 B+, MicroSD 32Gb, RPI NOIR Camera.
-
 USB Microphone, USB Speaker.
-
 Infrared sensor (QRD1114) - four.
-
 RGB led 5050 strip.
-
 DC Motor.
-
 PSU 5V and 12V.
-
 Motor Controller: L298N chip - four.
-
 Resistors four 4,7kΩ & four 220Ω, cables, thermoplastic tubing, prototyping board.
-
 Tools: soldering iron, solder, heater, cable cutter, hot glue gun, 3D printed pieces.
 
 Assembly:
